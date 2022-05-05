@@ -19,12 +19,13 @@
 ___
 <h3 align="left">About me:</h3>
 
- <ul>
-  <li>I’m currently working on [PIC](http://pic.shift-demo.one/) And [ADVIA](https://advia.io)</li>
-  <li>Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)</li>
-  <li>Ask me about **Laravel, PHP, HTML, CSS, JS, Vue**</li>
-  <li>How to reach me **feras.bbm@gmail.com**</li>
-</ul>
+- I’m currently working on [PIC](http://pic.shift-demo.one/) And [ADVIA](https://advia.io)
+
+- Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)
+
+- Ask me about **Laravel, PHP, HTML, CSS, JS, Vue**
+
+- How to reach me **feras.bbm@gmail.com**
 
 ___
 <h3 align="left">Connect with me:</h3>
