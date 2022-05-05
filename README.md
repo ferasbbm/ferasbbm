@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferasbbm&label=Profile%20views&color=0e75b6&style=flat" alt="ferasbbm" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&" alt="ferasbbm" /></p>
+<p align="center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&" alt="ferasbbm" /></p>
 
 <p align="left"> <a href="https://twitter.com/@feraselsharif" target="blank"><img src="https://img.shields.io/twitter/follow/@feraselsharif?logo=twitter&style=for-the-badge" alt="@feraselsharif" /></a> </p>
 
