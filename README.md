@@ -42,16 +42,20 @@ ___
 ___
 <h3 align="left"> My Stats:</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferasbbm" alt="ferasbbm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=ferasbbm" alt="ferasbbm" /></a>
+</p>
 
 
 <br>
 
-<p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&layout=compact&langs_count=10&show_icons=true&locale=en&layout=compact" alt="ferasbbm" />
+<p align="left">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&langs_count=10&show_icons=true&locale=en&theme=merko" alt="ferasbbm" />
 </p>
 
  
  
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferasbbm&show_icons=true&locale=en" alt="ferasbbm" /></p>
+<p  align="left">
+ &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferasbbm&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="ferasbbm" />
+</p>
 
