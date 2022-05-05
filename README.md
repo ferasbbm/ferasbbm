@@ -42,8 +42,8 @@ ___
 ___
 <h3 align="left"> My Stats:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=ferasbbm" alt="ferasbbm" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=ferasbbm&theme=onestar&margin-w=15" alt="ferasbbm" /></a>
 </p>
 
 
