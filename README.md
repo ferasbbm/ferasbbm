@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Feras</h1>
+<h1 align="center">Hi There 👋, I'm Feras</h1>
 <h3 align="center">A BackEnd Developer</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dark" alt="ferasbbm" /></p>
@@ -23,7 +23,7 @@ ___
 
 - Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)
 
-- Ask me about **Laravel, PHP, HTML, CSS, JS, Vue**
+- Ask me about **PHP, Laravel, HTML, CSS, JS, Vue**
 
 - How to reach me **feras.bbm@gmail.com**
 
