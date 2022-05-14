@@ -15,7 +15,6 @@
 
 </div>
  
- 
 ___
 <h3 align="left">About me:</h3>
 
@@ -105,5 +104,7 @@ ___
  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferasbbm&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="ferasbbm" />
 </p>
 
-## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+<!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=ferasbbm/github-slideshow) -->
