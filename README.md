@@ -84,6 +84,42 @@ ___
 
 </p>
 
+
+<!-- 
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+
+ -->
+
+
+
+
+
+
+
+
+
 ___
 <h3 align="left"> My Stats:</h3>
 
@@ -95,16 +131,16 @@ ___
 <br>
 
 <p align="left">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&langs_count=10&show_icons=true&locale=en&theme=merko" alt="ferasbbm" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&bg_color=000&langs_count=10&show_icons=true&locale=en&theme=merko" alt="ferasbbm" />
 </p>
 
- 
- 
 <p  align="left">
  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferasbbm&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="ferasbbm" />
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
+
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 
 <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=ferasbbm/github-slideshow) -->
