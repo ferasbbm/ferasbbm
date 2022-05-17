@@ -25,8 +25,6 @@ ___
 
 - Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)
 
-- Ask me about **PHP, Laravel, HTML, CSS, JS, Vue**
-
 - How to reach me **feras.bbm@gmail.com**
 
 ___
