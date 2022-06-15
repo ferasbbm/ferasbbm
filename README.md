@@ -21,7 +21,7 @@
 ___
 <h3 align="left">About me:</h3>
 
-- I’m currently working on [PIC](http://pic.shift-demo.one/) And [ADVIA](https://advia.io)
+- I’m currently working on [PIC](http://pic.shift-demo.one/), [WMIS](https://stage.wmis.live/login) And [ADVIA](https://advia.io)
 
 - Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)
 
