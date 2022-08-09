@@ -25,7 +25,7 @@ ___
 
 - Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)
 
-- How to reach me **feras.bbm@gmail.com** ,  [GitHub Discussion](https://github.com/ferasbbm/ferasbbm/discussions?discussions_q=category%3AGuestbook)
+- How to reach me **feras.bbm@gmail.com** , **[GitHub Discussion](https://github.com/ferasbbm/ferasbbm/discussions)**
 
 ___
 
