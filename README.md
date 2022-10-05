@@ -106,8 +106,7 @@
   </a> -->
 </div>
 
-<a href=#><img src="https://raw.githubusercontent.com/ferasbbm/ferasbbm/dist/snake.svg"></a>
-
+![Snake animation](https://github.com/ferasbbm/ferasbbm/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
