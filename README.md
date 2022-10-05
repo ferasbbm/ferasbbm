@@ -6,6 +6,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dark" alt="ferasbbm" /></p>
 
+
  
  <div id="badges">
   <a href="https://linkedin.com/in/feras elsharif">
@@ -84,25 +85,30 @@ ___
 
 
 ___
-<h3 align="left"> My Stats:</h3>
+<h3 align="left"> 
+<img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" />
+ My Stats:
+ </h3>
 
+## Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
+<img src="https://activity-graph.herokuapp.com/graph?username=ferasbbm&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+
+
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&bg_color=000&langs_count=10&show_icons=true&locale=en&theme=merko" alt="ferasbbm" />
+</p>
+
+<p  align="center">
+ &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferasbbm&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="ferasbbm" />
+</p>
+
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
  <img src="https://github-profile-trophy.vercel.app/?username=ferasbbm&theme=onestar&margin-w=15" alt="ferasbbm" /></a>
 </p>
 
 
 <br>
-
-<p align="left">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&bg_color=000&langs_count=10&show_icons=true&locale=en&theme=merko" alt="ferasbbm" />
-</p>
-
-<p  align="left">
- &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferasbbm&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="ferasbbm" />
-</p>
-
-<br>
-
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
