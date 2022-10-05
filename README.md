@@ -4,9 +4,13 @@
 
 <h3 align="center">A FullStack Developer Using #Laravel & #Vue</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dark" alt="ferasbbm" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dark" alt="ferasbbm" /></p>-->
+<br/>
+<div align="center">
 
+![feras](gitartwork.svg)
 
+</div>
  <div id="badges">
    <a href="https://linkedin.com/in/feras elsharif">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -118,6 +122,7 @@
 <a href="https://github.com/ferasbbm/Laravel-Api-responser">
  <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=Laravel-Api-responser" width="250"/>
 </a>
+
 
 <br/>
 
