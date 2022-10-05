@@ -106,6 +106,21 @@
   </a> -->
 </div>
 
+## Some of my Contributions:
+
+<a href="https://github.com/ferasbbm/larafirebase">
+ <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=larafirebase" width="250"/>
+</a>
+
+<a href="https://github.com/ferasbbm/laravel-tips">
+ <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=laravel-tips" width="250"/>
+</a>
+<a href="https://github.com/ferasbbm/Laravel-Api-responser">
+ <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=Laravel-Api-responser" width="250"/>
+</a>
+
+<br/>
+
 ![Snake animation](https://github.com/ferasbbm/ferasbbm/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
