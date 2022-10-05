@@ -6,11 +6,7 @@
 
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dark" alt="ferasbbm" /></p>-->
 <br/>
-<div align="center">
 
-![feras](gitartwork.svg)
-
-</div>
  <div id="badges">
    <a href="https://linkedin.com/in/feras elsharif">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
