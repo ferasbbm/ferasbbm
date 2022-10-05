@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Feras</h1>
+<h1 align="center">Hi There, I'm Feras <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=%36BCF7FF&multiline=true&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Feras;Welcome+to+My+Profile!;More+2+years+of+experience;)](https://git.io/typing-svg) -->
 
@@ -7,20 +7,24 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dark" alt="ferasbbm" /></p>
 
 
- 
  <div id="badges">
-  <a href="https://linkedin.com/in/feras elsharif">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/@feraselsharif">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+   <a href="https://linkedin.com/in/feras elsharif">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://twitter.com/@feraselsharif">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+ 
    <img  align="right" src="https://komarev.com/ghpvc/?username=ferasbbm&label=Profile%20views&color=0e75b6&style=flat" alt="ferasbbm" />
-
+   <a align="right" href="https://github.com/ferasbbm?tab=followers">
+      <img  align="right" src="https://img.shields.io/github/followers/ferasbbm?username=ferasbbm&label=Followers" alt="ferasbbm" />
+   </a>
 </div>
  
-___
-<h3 align="left">About me:</h3>
+<h1 align="left">About me:</h1>
+
+<!-- ___ -->
+
 
 - I’m currently working on [PIC](http://pic.shift-demo.one/), [WMIS](https://stage.wmis.live/login) And [ADVIA](https://advia.io)
 
@@ -28,7 +32,10 @@ ___
 
 - How to reach me **feras.bbm@gmail.com** , **[GitHub Discussion](https://github.com/ferasbbm/ferasbbm/discussions/new?category=general)**
 
-___
+<h1 align="left">Skils:</h1>
+
+
+<!-- ___ -->
 
 ### Languages
 
@@ -77,38 +84,31 @@ ___
 
 
 
+<h1 align="left"> 
+ <img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" /> My Stats:
+</h1>
 
+<!-- ___ -->
 
-
-
-
-
-
-___
-<h3 align="left"> 
-<img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" />
- My Stats:
- </h3>
 
 ## Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
+
 <img src="https://activity-graph.herokuapp.com/graph?username=ferasbbm&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
-<p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&bg_color=000&langs_count=10&show_icons=true&locale=en&theme=merko" alt="ferasbbm" />
-</p>
+## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
 
-<p  align="center">
- &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferasbbm&show_icons=true&locale=en&theme=merko&include_all_commits=true" alt="ferasbbm" />
-</p>
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasbbm&theme=dracula&show_icons=true" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
+     <img height="200em" src="https://github-profile-trophy.vercel.app/?username=ferasbbm&theme=onestar&margin-w=15" alt="ferasbbm" />
+  </a> -->
+</div>
 
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=ferasbbm&theme=onestar&margin-w=15" alt="ferasbbm" /></a>
-</p>
+<a href=#><img src="https://raw.githubusercontent.com/ferasbbm/ferasbbm/dist/snake.svg"></a>
 
 
-<br>
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
