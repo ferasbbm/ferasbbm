@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: ferasbbm
             # Text on contribution graph 
-            text: <<FERAS>>
+            text: <FERAS>
        - uses: jasineri/simple-push-action@v1
