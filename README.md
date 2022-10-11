@@ -30,7 +30,7 @@
 <!-- ___ -->
 
 
-- I’m currently working on [PIC](http://pic.shift-demo.one/), [WMIS](https://stage.wmis.live/login) And [ADVIA](https://advia.io)
+- I’m currently working on [PIC](http://pic.shift-demo.one/) And [WMIS](https://stage.wmis.live/login)
 
 - Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)
 
