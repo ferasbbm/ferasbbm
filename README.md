@@ -111,18 +111,27 @@
 </div>
 
 ## Some of my Contributions:
-
-<a href="https://github.com/ferasbbm/larafirebase">
- <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=larafirebase" width="250"/>
+<a href="https://github.com/kutia-software-company/larafirebase">
+ <img src="https://stats4github.vercel.app/api/pin/?username=kutia-software-company&repo=larafirebase" width="250"/>
 </a>
-
-<a href="https://github.com/ferasbbm/laravel-tips">
- <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=laravel-tips" width="250"/>
+<a href="https://github.com/barryvdh/laravel-debugbar">
+ <img src="https://stats4github.vercel.app/api/pin/?username=barryvdh&repo=laravel-debugbar" width="250"/>
+</a>
+<a href="https://github.com/maximebf/php-debugbar">
+ <img src="https://stats4github.vercel.app/api/pin/?username=maximebf&repo=php-debugbar" width="250"/>
+</a>
+<a href="https://github.com/LaravelDaily/laravel-tips">
+ <img src="https://stats4github.vercel.app/api/pin/?username=LaravelDaily&repo=laravel-tips" width="250"/>
+</a>
+<a href="https://github.com/jsafe00/laravel-service-repository">
+ <img src="https://stats4github.vercel.app/api/pin/?username=jsafe00&repo=laravel-service-repository" width="250"/>
 </a>
 <a href="https://github.com/ferasbbm/Laravel-Api-responser">
  <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=Laravel-Api-responser" width="250"/>
 </a>
-
+<a href="https://github.com/ferasbbm/override-exception-handler-for-api">
+ <img src="https://stats4github.vercel.app/api/pin/?username=ferasbbm&repo=override-exception-handler-for-api" width="250"/>
+</a>
 
 <br/>
 
