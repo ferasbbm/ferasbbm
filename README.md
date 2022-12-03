@@ -30,7 +30,7 @@
 <!-- ___ -->
 
 
-- I’m currently working on [PIC](mobp.pic-pal.ps) And [WMIS](https://stage.wmis.live/login)
+<!--- I’m currently working on [PIC](mobp.pic-pal.ps) And [WMIS](https://stage.wmis.live/login)-->
 
 - Most of my projects are available at [https://github.com/ferasbbm](https://github.com/ferasbbm)
 
