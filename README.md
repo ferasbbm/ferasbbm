@@ -99,7 +99,7 @@
 ## Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=ferasbbm&theme=dracula&color=B994E6&bg_color=2B2D3D" /> -->
-<img src="./profile-3d-contrib/profile-green.svg"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
 ## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
 
